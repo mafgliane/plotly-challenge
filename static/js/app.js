@@ -1,4 +1,4 @@
-var jsonData = "../../data/samples.json"
+var jsonData = "samples.json"
 
 // Initialize the dashboard
 init();
